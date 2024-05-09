@@ -1,0 +1,1 @@
+web: gunicorn storyspot.wsgi
